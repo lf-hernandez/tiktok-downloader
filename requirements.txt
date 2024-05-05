@@ -16,7 +16,7 @@ packaging==23.1
 pathspec==0.11.2
 platformdirs==3.10.0
 playwright==1.37.0
-pydantic==2.3.0
+pydantic==2.4.0
 pydantic_core==2.6.3
 pyee==9.0.4
 requests==2.31.0
